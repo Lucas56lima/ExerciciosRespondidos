@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16FA1C7-8972-4E65-8D66-F7280F31B05E}|TesteTarget\\TesteTarget.csproj|c:\\users\\lucas\\source\\repos\\testetarget\\testetarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16FA1C7-8972-4E65-8D66-F7280F31B05E}|TesteTarget\\TesteTarget.csproj|solutionrelative:testetarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|c:\\users\\lucas\\source\\repos\\testetarget\\service\\services\\exercicio 4 - faturamento distribuidora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|solutionrelative:service\\services\\exercicio 4 - faturamento distribuidora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|c:\\users\\lucas\\source\\repos\\testetarget\\service\\services\\exerc\u00EDcio 5 - invertendo caracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|solutionrelative:service\\services\\exerc\u00EDcio 5 - invertendo caracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|c:\\users\\lucas\\source\\repos\\testetarget\\service\\services\\exercicio 3 - retornando faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|solutionrelative:service\\services\\exercicio 3 - retornando faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|c:\\users\\lucas\\source\\repos\\testetarget\\service\\services\\exercicio 1 - total de soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|solutionrelative:service\\services\\exercicio 1 - total de soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|c:\\users\\lucas\\source\\repos\\testetarget\\service\\services\\exercicio 2 - fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E72D59-2EEE-4BE5-AC7B-6B6B4A1BCB06}|Service\\Service.csproj|solutionrelative:service\\services\\exercicio 2 - fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exerc\u00EDcio 5 - Invertendo Caracter.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exerc\u00EDcio 5 - Invertendo Caracter.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Exerc\u00EDcio 5 - Invertendo Caracter.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exerc\u00EDcio 5 - Invertendo Caracter.cs",
+              "RelativeToolTip": "Service\\Services\\Exerc\u00EDcio 5 - Invertendo Caracter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:37:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio 4 - Faturamento Distribuidora.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 4 - Faturamento Distribuidora.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Exercicio 4 - Faturamento Distribuidora.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 4 - Faturamento Distribuidora.cs",
+              "RelativeToolTip": "Service\\Services\\Exercicio 4 - Faturamento Distribuidora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:11:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio 3 - Retornando Faturamento.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 3 - Retornando Faturamento.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Exercicio 3 - Retornando Faturamento.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 3 - Retornando Faturamento.cs",
+              "RelativeToolTip": "Service\\Services\\Exercicio 3 - Retornando Faturamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:07:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio 1 - Total de Soma.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 1 - Total de Soma.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Exercicio 1 - Total de Soma.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 1 - Total de Soma.cs",
+              "RelativeToolTip": "Service\\Services\\Exercicio 1 - Total de Soma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:19:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\TesteTarget\\Program.cs",
+              "RelativeDocumentMoniker": "TesteTarget\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\TesteTarget\\Program.cs",
+              "RelativeToolTip": "TesteTarget\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:10:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio 2 - Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 2 - Fibonacci.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Exercicio 2 - Fibonacci.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteTarget\\Service\\Services\\Exercicio 2 - Fibonacci.cs",
+              "RelativeToolTip": "Service\\Services\\Exercicio 2 - Fibonacci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:32:43.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
